@@ -7,5 +7,5 @@ The objective of this task is to evaluate, through experimentation, the data gen
 # Hoare x Lomuto para o Quick Sort
 
 <i>Este é um código-fonte para análise experimental de desempenho de duas estratégias de partição aplicadas no algoritmo de ordenação Quick Sort. 
-O objetivo dessa tarefa é avaliar, por meio de experimentação, os dados gerados com a aplicação do Quicksort utilizando as partições de Hoare e Lomuto, respectivamente.</i>
+O objetivo dessa tarefa é avaliar, por meio de experimentação, os dados gerados com a aplicação do Quick Sort utilizando as partições de Hoare e Lomuto, respectivamente.</i>
 
