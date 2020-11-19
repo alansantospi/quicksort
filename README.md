@@ -1,6 +1,6 @@
 
 
-# <img src="https://github.com/PyvesB/alexa-revolutionary-calendar/raw/master/images/english.png?raw=true" alt="" style="max-width:100%;"> Hoare vs Lomuto for Quick Sort
+# <img src="/docs/img/english.png?raw=true" alt="" style="max-width:100%;"> Hoare vs Lomuto for Quick Sort
 This is the source code for experimental performance analysis of two partition strategies applied to the Quick Sort sorting algorithm.
 The objective of this task is to evaluate, through experimentation, the data generated with the application of Quick Sort using the Hoare and Lomuto partitions, respectively.
 
